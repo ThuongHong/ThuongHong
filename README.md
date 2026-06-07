@@ -21,20 +21,52 @@
 <!-- ===== ABOUT ===== -->
 ## 🧠 About me
 
-```yaml
-name:      Luu Thuong Hong
-school:    University of Science (HCMUS) — VNUHCM
-learning:  Artificial Intelligence
-ask_me:    [ AI, algorithms, data ]
-contact:   luuthuonghong@gmail.com
-```
+> AI student at **HCMUS — VNUHCM** who likes shipping end-to-end systems, not just notebooks.
+> I build **LLM-powered analytics tools**, work with **data mining & machine learning**, and bring **classic algorithms to life** through interactive visualizers.
+> Comfortable across the stack — from data pipelines and deep learning to full-stack dashboards.
+
+- 🎓 Studying **Artificial Intelligence** at University of Science (HCMUS)
+- 🤖 Working on **LLM applications, machine learning & data mining**
+- 🧠 Exploring **quantum computing** and **algorithm design**
+- 🧩 Sharpening **algorithms** on [LeetCode](https://leetcode.com/lwuly)
+- 📫 Reach me at **luuthuonghong@gmail.com**
 
 <!-- ===== TECH STACK ===== -->
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,sqlite,git,linux,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,typescript,react,sqlite,git,linux,latex&theme=dark" alt="skills" />
 </p>
+
+<!-- ===== FEATURED PROJECTS ===== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThuongHong/SupplyTracker">📦 SupplyTracker</a></h3>
+      <p>PortWatch-driven port & chokepoint analytics dashboard — real-time vessel-flow data with freight indices, bunker prices, and <b>LLM-generated decision briefs</b>.</p>
+      <p><code>Python</code> · <code>LLM</code> · <code>Data Viz</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThuongHong/Maze">🧩 Maze</a></h3>
+      <p>Maze generation & pathfinding visualizer to explore classic <b>graph algorithms</b> through interactive, animated simulations.</p>
+      <p><code>Python</code> · <code>Algorithms</code> · <code>Visualization</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThuongHong/Genetic-Algorithms">🧬 Genetic-Algorithms</a></h3>
+      <p>Educational deep-dive into <b>evolutionary computation</b> — implementing genetic algorithms from scratch with minimal LLM use.</p>
+      <p><code>Python</code> · <code>Optimization</code> · <code>From Scratch</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThuongHong/clinic-lens">🏥 clinic-lens</a></h3>
+      <p>Full-stack clinical analytics platform turning raw medical data into structured insights via visualization & intelligent analysis.</p>
+      <p><code>TypeScript</code> · <code>Full-stack</code> · <code>Analytics</code></p>
+    </td>
+  </tr>
+</table>
 
 <!-- ===== STATS (auto dark/light) ===== -->
 ## 📊 GitHub Stats
@@ -48,27 +80,12 @@ contact:   luuthuonghong@gmail.com
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThuongHong&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<!-- ===== TROPHIES ===== -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThuongHong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
 <!-- ===== ACTIVITY GRAPH ===== -->
 ## 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThuongHong&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
-
-<!-- ===== SNAKE ANIMATION =====
-  Requires the Platane/snk GitHub Action in .github/workflows to generate the SVG.
-  See: https://github.com/Platane/snk -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThuongHong/ThuongHong/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ThuongHong/ThuongHong/output/github-contribution-grid-snake.svg" alt="snake" />
-</picture>
 
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
